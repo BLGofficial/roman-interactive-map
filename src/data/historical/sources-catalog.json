@@ -1,0 +1,116 @@
+{
+  "SRC-01": {
+    "id": "SRC-01",
+    "categoryBg": "Античен пътеводител",
+    "citationBg": "Itinerarium Antonini Augusti (Антонинов пътеводител, ред. края на III в. сл. Хр.), 136–138, 230–231 — изд. O. Cuntz, Itineraria Romana I (1929); бълг. превод в ЛИБИ, т. I, Издателство на БАН, 1958.",
+    "url": null
+  },
+  "SRC-02": {
+    "id": "SRC-02",
+    "categoryBg": "Античен пътеводител",
+    "citationBg": "Itinerarium Burdigalense / Hierosolymitanum (Бурдигалски пътеводител от 333–334 г. сл. Хр.), 568.1–571.8 — изд. P. Geyer & O. Cuntz, CCSL 175 (1965); ЛИБИ, т. I, БАН, 1958, с. 41–45.",
+    "url": null
+  },
+  "SRC-03": {
+    "id": "SRC-03",
+    "categoryBg": "Антична пътна карта",
+    "citationBg": "Tabula Peutingeriana (Пойтингерова карта, сегменти VII–VIII) — изд. K. Miller, Itineraria Romana (1916); R. Talbert, Rome's World (Cambridge UP, 2010); ЛИБИ, т. I, БАН, 1958.",
+    "url": "https://doi.org/10.1017/CBO9780511686863"
+  },
+  "SRC-04": {
+    "id": "SRC-04",
+    "categoryBg": "Епиграфски паметник",
+    "citationBg": "Строителни надписи на имп. Нерон и прокуратора Тит Юлий Уст (Titus Iulius Ustus) от 61 г. сл. Хр. за изграждане на tabernae et praetoria — CIL III 6123 (= ILS 231) и фрагментът от с. Белозем.",
+    "url": null
+  },
+  "SRC-05": {
+    "id": "SRC-05",
+    "categoryBg": "Епиграфски корпус (БАН)",
+    "citationBg": "Михайлов, Г. Inscriptiones Graecae in Bulgaria repertae (IGBulg), т. III/1 (Филипопол, БАН, 1961 — № 878 за стената от 172 г.) и т. III/2 (Тракия, БАН, 1964 — № 1517 за Cillae, № 1690 за Pizos от 202 г.).",
+    "url": null
+  },
+  "SRC-06": {
+    "id": "SRC-06",
+    "categoryBg": "Антична география",
+    "citationBg": "Клавдий Птолемей, Geographia III.11 (Тракия) и Плиний Стари, Naturalis Historia IV.40–47 — ГИБИ т. I (1954) и ЛИБИ т. I (1958), Издателство на БАН.",
+    "url": null
+  },
+  "SRC-07": {
+    "id": "SRC-07",
+    "categoryBg": "Археологическа монография",
+    "citationBg": "Маджаров, Митко. Римски пътища в България. Принос в развитието на римската пътна система в провинциите Мизия и Тракия. Велико Търново: Фабер, 2009 (Глава II: Централен / Диагонален път, с. 131–182).",
+    "url": null
+  },
+  "SRC-08": {
+    "id": "SRC-08",
+    "categoryBg": "Археологическа монография",
+    "citationBg": "Кесякова, Елена. Филипопол през римската епоха. София: Агато, 1999.",
+    "url": null
+  },
+  "SRC-09": {
+    "id": "SRC-09",
+    "categoryBg": "Археологическа монография",
+    "citationBg": "Топалилов, Иво. Римският Филипопол. Том 1: Топография, градоустройство и архитектура. Велико Търново: Фабер, 2012.",
+    "url": null
+  },
+  "SRC-10": {
+    "id": "SRC-10",
+    "categoryBg": "Научна статия (DOI)",
+    "citationBg": "Lozanov, Ivaylo. Notes on the Urban Development of Philippopolis in the Early History of Roman Thrace (Ist – the First Quarter of the IInd C. AD). Studia Archaeologica Universitatis Serdicensis, 2003.",
+    "url": "https://doi.org/10.60053/SAUS.1.3.231-244"
+  },
+  "SRC-11": {
+    "id": "SRC-11",
+    "categoryBg": "НАИМ-БАН / Епиграфика",
+    "citationBg": "Шаранков, Николай. Епиграфски проучвания на строителните надписи от Античния театър във Филипопол (фази при Домициан и Траян, 114–117 г. сл. Хр.). Археологически открития и разкопки (АОР), НАИМ-БАН, 2016–2017.",
+    "url": null
+  },
+  "SRC-12": {
+    "id": "SRC-12",
+    "categoryBg": "Известия на АИ при БАН",
+    "citationBg": "Велков, Иван. Проучвания на крайпътните станции и римския мост над р. Сазлийка при с. Калугерово; Бешевлиев, Веселин. Античната топонимия в Тракия. Издания на БАН.",
+    "url": null
+  },
+  "SRC-13": {
+    "id": "SRC-13",
+    "categoryBg": "Историческо изследване",
+    "citationBg": "Тачева, Маргарита. Власт и социум в Римска Тракия и Мизия (2000–2004); Геров, Борис. Земевладението в Римска Тракия и Мизия (I–III в.).",
+    "url": null
+  },
+  "SRC-14": {
+    "id": "SRC-14",
+    "categoryBg": "Археологическа експедиция Карасура",
+    "citationBg": "Wendel, Michael. Karasura III: Die Verkehrsanbindung in frühbyzantinischer Zeit (4.–8. Jh. n. Chr.). Langenweißbach: Beier & Beran, 2005 (българо-германски разкопки с участието на Хр. Буюклиев и Я. Димитров).",
+    "url": null
+  },
+  "SRC-15": {
+    "id": "SRC-15",
+    "categoryBg": "Научна статия (DOI)",
+    "citationBg": "Böttger, B., Krummrey, H., & Hallof, K. Inschriften aus Karasura (I–II). Klio, 73(2), 1991, 468–488.",
+    "url": "https://doi.org/10.1524/klio.1991.73.73.468"
+  },
+  "SRC-16": {
+    "id": "SRC-16",
+    "categoryBg": "Теренни отчети НАИМ-БАН",
+    "citationBg": "Борисов, Борис (разкопки на крепостта Castra Rubra при с. Изворово) и Нехризов, Г. / Лозанов, И. (спасителни проучвания в Харманлийско и Свиленградско). Археологически открития и разкопки (АОР), София: НАИМ-БАН.",
+    "url": null
+  },
+  "SRC-17": {
+    "id": "SRC-17",
+    "categoryBg": "Епиграфски корпус Перинт",
+    "citationBg": "Sayar, Mustafa Hamdi. Perinthos-Herakleia (Marmara Ereğlisi) und Umgebung: Geschichte, Testimonien, griechische und lateinische Inschriften. Wien: ÖAW, 1998.",
+    "url": null
+  },
+  "SRC-18": {
+    "id": "SRC-18",
+    "categoryBg": "Археологическа ГИС база",
+    "citationBg": "Pleiades Gazetteer of the Ancient World & Barrington Atlas of the Greek and Roman World (ed. R. Talbert, Princeton UP, 2000, Maps 22, 51, 52).",
+    "url": "https://pleiades.stoa.org"
+  },
+  "SRC-19": {
+    "id": "SRC-19",
+    "categoryBg": "Археологическа ГИС база",
+    "citationBg": "Digital Atlas of the Roman Empire (DARE, ed. Johan Ahlfeldt) & ToposText Gazetteer.",
+    "url": "https://imperium.ahlfeldt.se"
+  }
+}

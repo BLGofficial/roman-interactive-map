@@ -1,0 +1,122 @@
+[
+  {
+    "id": "INT-01",
+    "coordinateKey": "INT-01",
+    "nameBg": "Циле (Cillae)",
+    "name117AdBg": "Mansio Cillae",
+    "modernLocationBg": "с. Черна гора, общ. Братя Даскалови",
+    "role": "omitted_intermediate",
+    "categoryBg": "Пътна станция (mansio) — пропусната в 8-те спирки",
+    "note117AdBg": "Действаща главна нощувъчна станция между Паремболе и Карасура, потвърдена с надписи (IGBulg III/2 1517)."
+  },
+  {
+    "id": "INT-02",
+    "coordinateKey": "INT-02",
+    "nameBg": "Опизо / Емпорион Пизос (Pizos)",
+    "name117AdBg": "Крайпътно селище Опизо (преди основаването на емпория през 202 г.)",
+    "modernLocationBg": "с. Димитриево, общ. Чирпан",
+    "role": "omitted_intermediate",
+    "categoryBg": "Тържище / станция — пропусната в 8-те спирки",
+    "note117AdBg": "Официалният Emporium Pizos е основан едва през 202 г. сл. Хр. при Септимий Север (IGBulg III/2 1690)."
+  },
+  {
+    "id": "INT-03",
+    "coordinateKey": "INT-03",
+    "nameBg": "Раме (Rhamae)",
+    "name117AdBg": "Междинен сменнен пост (засвид. 333 г. като mutatio Rhamis)",
+    "modernLocationBg": "район гр. Любимец",
+    "role": "omitted_intermediate",
+    "categoryBg": "Сменна станция (mutatio) — пропусната в 8-те спирки",
+    "note117AdBg": "Разположена на VII римски мили югоизточно от Кастра Рубра."
+  },
+  {
+    "id": "EXT-09",
+    "coordinateKey": "EXT-09",
+    "nameBg": "Ускудама / Адрианопол",
+    "name117AdBg": "Uscudama (в преход към Hadrianopolis след 117 г.)",
+    "modernLocationBg": "Едирне (Одрин), Турция",
+    "role": "eastern_continuation",
+    "categoryBg": "Градски център (civitas)",
+    "note117AdBg": "През 117 г. носи тракийското име Ускудама; преименуван и преустроен от имп. Адриан вероятно около 124–127 г."
+  },
+  {
+    "id": "EXT-10",
+    "coordinateKey": "EXT-10",
+    "nameBg": "Буртудизус (Burtudizus)",
+    "name117AdBg": "Mansio Burtudizus",
+    "modernLocationBg": "Бабаески, Турция",
+    "role": "eastern_continuation",
+    "categoryBg": "Пътна станция (mansio)",
+    "note117AdBg": "Възлова станция при речен преход в басейна на Ергене."
+  },
+  {
+    "id": "EXT-11",
+    "coordinateKey": "EXT-11",
+    "nameBg": "Бергуле (Bergule)",
+    "name117AdBg": "Bergule (преименуван на Arcadiopolis след 395 г.)",
+    "modernLocationBg": "Люлебургаз, Турция",
+    "role": "eastern_continuation",
+    "categoryBg": "Град / пътна станция",
+    "note117AdBg": "Трако-римско градско и крайпътно средище в централна Източна Тракия."
+  },
+  {
+    "id": "EXT-12",
+    "coordinateKey": "EXT-12",
+    "nameBg": "Дризипара (Drizipara)",
+    "name117AdBg": "Mansio Drizipara",
+    "modernLocationBg": "Бююккаръщъран, Турция",
+    "role": "eastern_continuation",
+    "categoryBg": "Пътна станция (mansio)",
+    "note117AdBg": "Синхронно засвидетелствана у Клавдий Птолемей през II в. сл. Хр."
+  },
+  {
+    "id": "EXT-13",
+    "coordinateKey": "EXT-13",
+    "nameBg": "Сирало / Цурулум (Tzurulum)",
+    "name117AdBg": "Mansio Syrallo / Tzurulum",
+    "modernLocationBg": "Чорлу, Турция",
+    "role": "eastern_continuation",
+    "categoryBg": "Пътна станция (mansio)",
+    "note117AdBg": "Стратегическа височинна станция преди спускането към Мраморно море."
+  },
+  {
+    "id": "EXT-14",
+    "coordinateKey": "EXT-14",
+    "nameBg": "Перинт (Perinthus)",
+    "name117AdBg": "Perinthus — столица на провинция Тракия (преименуван на Heraclea ок. 286 г.)",
+    "modernLocationBg": "Мармара Ерейлиси, Турция",
+    "role": "eastern_continuation",
+    "categoryBg": "Провинциална столица и пристанище (caput provinciae)",
+    "note117AdBg": "Седалище на римския провинциален управител през 117 г. и точка на сливане с Via Egnatia."
+  },
+  {
+    "id": "EXT-14B",
+    "coordinateKey": "EXT-14B",
+    "nameBg": "Селимбрия (Selymbria)",
+    "name117AdBg": "Selymbria",
+    "modernLocationBg": "Силиври, Турция",
+    "role": "eastern_continuation",
+    "categoryBg": "Крайбрежен полис и станция",
+    "note117AdBg": "Античен крайморски град по северния бряг на Пропонтида."
+  },
+  {
+    "id": "EXT-14C",
+    "coordinateKey": "EXT-14C",
+    "nameBg": "Регион (Rhegium)",
+    "name117AdBg": "Mansio Rhegium",
+    "modernLocationBg": "Кючукчекмедже, Истанбул, Турция",
+    "role": "eastern_continuation",
+    "categoryBg": "Пътна станция и лагунен мост",
+    "note117AdBg": "Последна станция на 12 римски мили западно от Византион."
+  },
+  {
+    "id": "EXT-15",
+    "coordinateKey": "EXT-15",
+    "nameBg": "Византион / Константинопол",
+    "name117AdBg": "Byzantium (Βυζάντιον) — историческа крайна точка",
+    "modernLocationBg": "Истанбул (Сарайбурну / Султанахмед), Турция",
+    "role": "eastern_terminus",
+    "categoryBg": "Исторически край на Via Diagonalis (civitas)",
+    "note117AdBg": "През 117 г. градът е класическият гръко-римски полис Византион; Константинопол е осветен едва през 330 г. сл. Хр."
+  }
+]

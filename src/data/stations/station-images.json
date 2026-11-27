@@ -1,0 +1,101 @@
+{
+  "regional_panorama": {
+    "title": "Регионален панорамен изглед — Римска Тракия и Via Diagonalis",
+    "stationId": null,
+    "image": "/assets/historical-references/00-regional-panorama.png",
+    "type": "original-reference",
+    "originalFilename": "Roman Thrace_ The Via Diagonalis.png",
+    "width": 1672,
+    "height": 941,
+    "aspectRatio": "1672 / 941",
+    "provenanceBg": "Оригинална дигитална визуална референция на коридора в долината на Хеброс (не е автентично антично изображение)."
+  },
+  "philippopolis": {
+    "title": "Филипопол",
+    "stationId": "STOP-01",
+    "image": "/assets/historical-references/01-philippopolis.png",
+    "type": "original-reference",
+    "originalFilename": "ChatGPT Image Nov 7, 2026, 02_52_02 AM-1.png",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": "4 / 3",
+    "provenanceBg": "Оригинална визуална референция (Спирка 1/8). Дигитална реконструкция — не представлява автентично изображение от античността; долноградската крепостна стена във визията отразява етапа след 172 г. сл. Хр."
+  },
+  "sernota": {
+    "title": "Сернота",
+    "stationId": "STOP-02",
+    "image": "/assets/historical-references/02-sernota.png",
+    "type": "original-reference",
+    "originalFilename": "ChatGPT Image Nov 7, 2026, 02_52_09 AM-2.png",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": "4 / 3",
+    "provenanceBg": "Оригинална визуална референция (Спирка 2/8). Типологична дигитална реконструкция на крайпътна станция — не е автентично антично изображение."
+  },
+  "parembole": {
+    "title": "Паремболе",
+    "stationId": "STOP-03",
+    "image": "/assets/historical-references/03-parembole.png",
+    "type": "original-reference",
+    "originalFilename": "ChatGPT Image Nov 7, 2026, 02_52_18 AM-3.png",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": "4 / 3",
+    "provenanceBg": "Оригинална визуална референция (Спирка 3/8). Дигитална реконструкция на крайпътен преториум и таверни — не е автентично антично изображение."
+  },
+  "carassura": {
+    "title": "Карасура",
+    "stationId": "STOP-04",
+    "image": "/assets/historical-references/04-carassura.png",
+    "type": "original-reference",
+    "originalFilename": "ChatGPT Image Nov 7, 2026, 02_52_24 AM-4.png",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": "4 / 3",
+    "provenanceBg": "Оригинална визуална референция (Спирка 4/8). Дигитална реконструкция — крепостните стени във визията са реконструктивна проекция от късноантичния етап (IV–VI в.), не от 117 г."
+  },
+  "arzus": {
+    "title": "Арзус",
+    "stationId": "STOP-05",
+    "image": "/assets/historical-references/05-arzus.png",
+    "type": "original-reference",
+    "originalFilename": "ChatGPT Image Nov 7, 2026, 02_52_28 AM-5.png",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": "4 / 3",
+    "provenanceBg": "Оригинална визуална референция (Спирка 5/8). Дигитална реконструкция на mansio Arzus — не е автентично антично изображение."
+  },
+  "pale": {
+    "title": "Пале (Palae)",
+    "stationId": "STOP-06",
+    "image": "/assets/historical-references/06-pale.png",
+    "type": "original-reference",
+    "originalFilename": "ChatGPT Image Nov 7, 2026, 02_52_34 AM-6.png",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": "4 / 3",
+    "provenanceBg": "Оригинална визуална референция (Спирка 6/8). Хипотетична дигитална реконструкция на малка сменна станция — не е автентично антично изображение."
+  },
+  "castra_rubra": {
+    "title": "Кастра Рубра",
+    "stationId": "STOP-07",
+    "image": "/assets/historical-references/07-castra-rubra.png",
+    "type": "original-reference",
+    "originalFilename": "ChatGPT Image Nov 7, 2026, 02_52_42 AM-7.png",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": "4 / 3",
+    "provenanceBg": "Оригинална визуална референция (Спирка 7/8). Дигитална реконструкция — масивната куртина с кули отразява ранновизантийската крепост (V–VI в.), докато през 117 г. обектът е пътна станция и превален пост."
+  },
+  "burdipta": {
+    "title": "Бурдипта",
+    "stationId": "STOP-08",
+    "image": "/assets/historical-references/08-burdipta.png",
+    "type": "original-reference",
+    "originalFilename": "ChatGPT Image Nov 7, 2026, 02_52_47 AM-8.png",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": "4 / 3",
+    "provenanceBg": "Оригинална визуална референция (Спирка 8/8). Дигитална реконструкция на крайречната mansio Burdipta — не е автентично антично изображение."
+  }
+}

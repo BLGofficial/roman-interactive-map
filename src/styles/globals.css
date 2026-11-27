@@ -1,0 +1,59 @@
+@import 'cesium/Build/Cesium/Widgets/widgets.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #101216;
+    color: #f7f3e8;
+  }
+}
+
+/* Почистване на стандартните уиджети на CesiumJS за чиста картографска естетика */
+.cesium-viewer-bottom,
+.cesium-viewer-toolbar,
+.cesium-viewer-animationContainer,
+.cesium-viewer-timelineContainer,
+.cesium-viewer-fullscreenContainer {
+  display: none !important;
+}
+
+.cesium-widget-credits {
+  font-size: 9px !important;
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+/* Римска картографска рамка и фини скролбарове */
+.cartographic-panel {
+  background: linear-gradient(180deg, rgba(23, 26, 31, 0.92) 0%, rgba(36, 34, 30, 0.92) 100%);
+  border: 1px solid rgba(200, 157, 60, 0.28);
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(12px);
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #101216;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #35312a;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c89d3c;
+}

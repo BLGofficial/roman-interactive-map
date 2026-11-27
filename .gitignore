@@ -1,0 +1,21 @@
+# Dependencies & Build
+node_modules/
+dist/
+
+# Environment & Logs
+.env
+.env.local
+.env.*.local
+*.log
+
+# Local loose workspace files in root (canonical assets live in public/assets/historical-references/)
+/*.png
+/*.jpg
+/*.jpeg
+/0.26.0
+.DS_Store
+Thumbs.db
+
+# Unused legacy duplicate asset folder
+/public/assets/stations/
+

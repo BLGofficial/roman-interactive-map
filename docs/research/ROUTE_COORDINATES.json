@@ -1,0 +1,889 @@
+{
+  "metadata": {
+    "project_id": "P01_VIA_DIAGONALIS_RESEARCH",
+    "route_name_modern": "Via Diagonalis",
+    "route_name_ancient": "Via Militaris (per vias militares)",
+    "target_chronology": "c. 117 AD (Late Trajanic / Early Hadrianic Roman Thrace)",
+    "crs": "EPSG:4326 (WGS84)",
+    "coordinate_policy": "Zero fabricated coordinates. Every coordinate derives from verified archaeological gazetteers (Pleiades, Digital Atlas of the Roman Empire / DARE, Barrington Atlas, ToposText), excavated site records (NAIM-BAS), or documented modern settlement centroids for unexcavated itinerary corridors with explicit uncertainty radii.",
+    "roman_mile_meters": 1480,
+    "generated_at": "2026-11-27"
+  },
+  "route_endpoints": {
+    "continental_origin": {
+      "ancient_name": "Singidunum",
+      "modern_name": "Belgrade, Serbia"
+    },
+    "study_sector_origin": {
+      "stop_id": "STOP-01",
+      "ancient_name_117_ad": "Philippopolis",
+      "modern_name": "Plovdiv, Bulgaria",
+      "lat": 42.1474,
+      "lon": 24.7491,
+      "pleiades_id": "216927"
+    },
+    "project_eight_stops_end": {
+      "stop_id": "STOP-08",
+      "ancient_name_117_ad": "Burdipta",
+      "modern_name": "Svilengrad / Momkovo area, Bulgaria",
+      "lat": 41.7763,
+      "lon": 26.1981,
+      "pleiades_id": "501381",
+      "note": "Intermediate mansio near the modern Bulgarian-Turkish border; NOT the historical terminus of Via Diagonalis."
+    },
+    "historical_eastern_terminus": {
+      "node_id": "EXT-15",
+      "ancient_name_117_ad": "Byzantium",
+      "late_antique_name_post_330_ad": "Constantinopolis",
+      "modern_name": "Istanbul (Historical Peninsula / Sarayburnu), Turkey",
+      "lat": 41.0123,
+      "lon": 28.9759,
+      "pleiades_id": "520985"
+    }
+  },
+  "project_stops": [
+    {
+      "sequence": 1,
+      "stop_id": "STOP-01",
+      "project_name": "Philippopolis",
+      "historical_name": "Philippopolis",
+      "name_in_117_ad": "Philippopolis (Trimontium)",
+      "ancient_variants": [
+        "Philippopolis",
+        "Φιλιππόπολις",
+        "Trimontium",
+        "Filipopuli",
+        "Filopopuli",
+        "Pulpudeva"
+      ],
+      "modern_location": "Plovdiv (Central area / Trimontium & Roman Forum), Plovdiv Province, Bulgaria",
+      "coordinates": {
+        "lat": 42.1474,
+        "lon": 24.7491
+      },
+      "coordinate_precision": "exact_excavated_urban_center",
+      "uncertainty_radius_km": 0.5,
+      "pleiades_id": "216927",
+      "coordinate_source": "Pleiades 216927 / Digital Atlas of the Roman Empire (DARE) / NAIM-BAS",
+      "site_type_itineraries": "civitas / metropolis",
+      "site_type_117_ad": "Metropolis of Thracia (acropolis fortified; lower plain city unfortified until 172 AD; forum, theatre 114-117 AD, road junction, Hebrus bridge)",
+      "chronology_attested": "4th c. BC – Medieval (active and flourishing in 117 AD)",
+      "identification_status": "confirmed",
+      "confidence_level": "HIGH",
+      "distance_from_prev_roman_miles": 0,
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-05",
+        "SRC-08",
+        "SRC-09",
+        "SRC-10",
+        "SRC-11",
+        "SRC-18"
+      ]
+    },
+    {
+      "sequence": 2,
+      "stop_id": "STOP-02",
+      "project_name": "Sernota",
+      "historical_name": "Sernota",
+      "name_in_117_ad": "Unattested toponym in 117 AD (early roadside taberna at Syrmus crossing; attested as mutatio Sernota in 333 AD)",
+      "ancient_variants": [
+        "Sernota",
+        "Sarnota",
+        "Syrnota"
+      ],
+      "modern_location": "Manole / Rogosh area (crossing of Stryama River), Maritsa Municipality, Plovdiv Province, Bulgaria",
+      "coordinates": {
+        "lat": 42.1833,
+        "lon": 24.9333
+      },
+      "coordinate_precision": "modern_settlement_reference_corridor",
+      "uncertainty_radius_km": 3.5,
+      "pleiades_id": null,
+      "coordinate_source": "Manole settlement reference point / Barrington Atlas Map 22 & Madzharov 2009 (10 Roman miles east of Philippopolis)",
+      "site_type_itineraries": "mutatio",
+      "site_type_117_ad": "Probable roadside relay post / taberna and river crossing over Syrmus (Stryama)",
+      "chronology_attested": "Name attested 333 AD (Itinerarium Burdigalense 568.2); Roman scatter 1st–4th c. AD in corridor",
+      "identification_status": "regionally_inferred_exact_site_unconfirmed",
+      "confidence_level": "MEDIUM_LOW",
+      "distance_from_prev_roman_miles": 10,
+      "source_ids": [
+        "SRC-02",
+        "SRC-07",
+        "SRC-12",
+        "SRC-19"
+      ]
+    },
+    {
+      "sequence": 3,
+      "stop_id": "STOP-03",
+      "project_name": "Parembole",
+      "historical_name": "Parembole",
+      "name_in_117_ad": "Praetorium / Taberna (Neronian station of 61 AD; later attested as mutatio Parembole / Paramvole)",
+      "ancient_variants": [
+        "Parembole",
+        "Paramvole",
+        "Paramuole",
+        "Παρεμβολή"
+      ],
+      "modern_location": "Belozem area (Selishteto / Malkoto Kale locality), Rakovski Municipality, Plovdiv Province, Bulgaria",
+      "coordinates": {
+        "lat": 42.2036,
+        "lon": 25.0394
+      },
+      "coordinate_precision": "epigraphic_findspot_settlement_reference",
+      "uncertainty_radius_km": 2.5,
+      "pleiades_id": null,
+      "coordinate_source": "Belozem epigraphic zone (Neronian inscription of 61 AD) / Madzharov 2009 (alternate eastern corridor index: 42.227, 25.101)",
+      "site_type_itineraries": "mutatio",
+      "site_type_117_ad": "Imperial roadside praetorium and taberna established under Nero in 61 AD via procurator T. Iulius Ustus",
+      "chronology_attested": "61 AD epigraphically (Nero building inscription) through 4th–6th c. AD (Itin. Burd. 568.3)",
+      "identification_status": "regionally_confirmed",
+      "confidence_level": "MEDIUM_HIGH",
+      "distance_from_prev_roman_miles": 8,
+      "omitted_next_station_note": "Project sequence omits mansio Cillae (Cherna Gora, 12 mp east of Parembole) before Carassura.",
+      "source_ids": [
+        "SRC-02",
+        "SRC-04",
+        "SRC-07",
+        "SRC-13"
+      ]
+    },
+    {
+      "sequence": 4,
+      "stop_id": "STOP-04",
+      "project_name": "Carassura",
+      "historical_name": "Carassura",
+      "name_in_117_ad": "Carassura (unfortified Thraco-Roman roadside settlement, sanctuary, and road station)",
+      "ancient_variants": [
+        "Carassura",
+        "Karasura",
+        "Καρασούρα"
+      ],
+      "modern_location": "Kaleto hill between Rupkite and Svoboda, Chirpan Municipality, Stara Zagora Province, Bulgaria",
+      "coordinates": {
+        "lat": 42.1998,
+        "lon": 25.3244
+      },
+      "coordinate_precision": "exact_excavated_site",
+      "uncertainty_radius_km": 0.2,
+      "pleiades_id": "216750",
+      "coordinate_source": "Excavated archaeological reserve Karasura / Pleiades 216750 / Wendel 2005",
+      "site_type_itineraries": "mutatio (later fortified Late Antique town)",
+      "site_type_117_ad": "Unfortified roadside settlement, relay post, and pagan sanctuary (Apollo/Asclepius); NO fortification walls or Christian basilicas in 117 AD",
+      "chronology_attested": "Prehistoric – 1st–3rd c. AD Roman settlement – 4th–6th c. AD fortress – 9th–13th c. medieval",
+      "identification_status": "confirmed",
+      "confidence_level": "HIGH",
+      "distance_from_prev_roman_miles": 21,
+      "distance_note": "21 Roman miles total from Parembole (12 mp Parembole -> Cillae + 9 mp Cillae -> Carassura in Itin. Burd. 568.3-4)",
+      "source_ids": [
+        "SRC-02",
+        "SRC-05",
+        "SRC-14",
+        "SRC-15",
+        "SRC-18"
+      ]
+    },
+    {
+      "sequence": 5,
+      "stop_id": "STOP-05",
+      "project_name": "Arzus",
+      "historical_name": "Arzus",
+      "name_in_117_ad": "Arzus (mansio and Roman bridge crossing over the Arzus / Sazliyka River)",
+      "ancient_variants": [
+        "Arzus",
+        "Arzos",
+        "Arzo",
+        "Arsus",
+        "Arso",
+        "Ἄρζος"
+      ],
+      "modern_location": "Kalugerovo (at the Sazliyka River crossing), Simeonovgrad Municipality, Haskovo Province, Bulgaria",
+      "coordinates": {
+        "lat": 42.0775,
+        "lon": 25.8702
+      },
+      "coordinate_precision": "gazetteer_pleiades_dare_and_bridge_site",
+      "uncertainty_radius_km": 1.0,
+      "pleiades_id": "216714",
+      "coordinate_source": "Pleiades 216714 / Digital Atlas of the Roman Empire (DARE) / Kalugerovo Roman bridge piers",
+      "site_type_itineraries": "mansio",
+      "site_type_117_ad": "Major road station (mansio) and masonry/timber-stone bridge crossing over the Arzus (Sazliyka) River",
+      "chronology_attested": "1st–6th c. AD (active in 117 AD; attested in Itin. Ant., Itin. Burd., Tab. Peut.)",
+      "identification_status": "confirmed",
+      "confidence_level": "HIGH",
+      "distance_from_prev_roman_miles": 29,
+      "distance_note": "In Itin. Ant. 137: Cillis -> Opizo XVIII mp -> Arzo XVIII mp (~27 mp from Carassura; Itin. Burd. manuscript figure XI mp from Carassura omits intermediate segment around Pizos)",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-07",
+        "SRC-12",
+        "SRC-18"
+      ]
+    },
+    {
+      "sequence": 6,
+      "stop_id": "STOP-06",
+      "project_name": "Pale",
+      "historical_name": "Palae",
+      "name_in_117_ad": "Unconfirmed in 117 AD (known solely as mutatio Palae in 333 AD)",
+      "ancient_variants": [
+        "Palae",
+        "Pale (modern project variant)"
+      ],
+      "modern_location": "Unconfirmed exact site in the Ovcharovo – Tyanevo – Sakartsi corridor (northwest of Izvorovo / Harmanli), Haskovo Province, Bulgaria",
+      "coordinates": {
+        "lat": 42.005,
+        "lon": 25.965
+      },
+      "coordinate_precision": "hypothetical_corridor_centroid_between_modern_villages",
+      "uncertainty_radius_km": 4.5,
+      "pleiades_id": null,
+      "coordinate_source": "Midpoint corridor reference between documented modern villages Tyanevo (42.0333, 25.9500) and Ovcharovo (41.9833, 25.9667) matching VII mp from Arzus and XI mp to Castra Rubra (Madzharov 2009; Itin. Burd. 568.6)",
+      "site_type_itineraries": "mutatio",
+      "site_type_117_ad": "Hypothetical minor relay post; no excavated structure or epigraphic proof for 117 AD",
+      "chronology_attested": "333 AD textual attestation only (Itinerarium Burdigalense 568.6)",
+      "identification_status": "unconfirmed_exact_location",
+      "confidence_level": "LOW",
+      "distance_from_prev_roman_miles": 7,
+      "source_ids": [
+        "SRC-02",
+        "SRC-07",
+        "SRC-14",
+        "SRC-16"
+      ]
+    },
+    {
+      "sequence": 7,
+      "stop_id": "STOP-07",
+      "project_name": "Castra Rubra",
+      "historical_name": "Castra Rubra (Subzupara)",
+      "name_in_117_ad": "Castra Rubra / Subzupara (early Roman mansio and road guard-post on the Sakar pass; pre-fortress phase)",
+      "ancient_variants": [
+        "Castra Rubra",
+        "Castris Rubris",
+        "Castozobra",
+        "Subzupara",
+        "Castrazarba"
+      ],
+      "modern_location": "Kaleto / Balabana locality near Izvorovo (south of Kolarovo), Harmanli Municipality, Haskovo Province, Bulgaria",
+      "coordinates": {
+        "lat": 41.9322,
+        "lon": 26.0922
+      },
+      "alternate_gazetteer_coordinates": {
+        "lat": 41.9334,
+        "lon": 26.0949,
+        "source": "DARE / Pleiades 501384"
+      },
+      "coordinate_precision": "exact_excavated_site_and_preserved_roadbed",
+      "uncertainty_radius_km": 0.5,
+      "pleiades_id": "501384",
+      "coordinate_source": "Excavated Kaleto site near Izvorovo (B. Borisov / NAIM-BAS AOR) & Pleiades 501384",
+      "site_type_itineraries": "mansio / castrum",
+      "site_type_117_ad": "Roman mansio and small pass praesidium alongside preserved ~6 m stone road pavement (the excavated stone fortress at Kaleto dates to late 5th–6th c. AD, NOT 117 AD)",
+      "chronology_attested": "1st–4th c. AD road station & pavement; late 5th–7th c. AD Early Byzantine fortress; 8th–9th c. medieval",
+      "identification_status": "confirmed",
+      "confidence_level": "HIGH",
+      "distance_from_prev_roman_miles": 11,
+      "omitted_next_station_note": "Project sequence omits mutatio Rhamis / Rhamae (Lyubimets area, 7 mp southeast of Castra Rubra) before Burdipta.",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-07",
+        "SRC-16",
+        "SRC-18"
+      ]
+    },
+    {
+      "sequence": 8,
+      "stop_id": "STOP-08",
+      "project_name": "Burdipta",
+      "historical_name": "Burdipta (Burdenis)",
+      "name_in_117_ad": "Burdipta (mansio in the lower Hebrus valley)",
+      "ancient_variants": [
+        "Burdipta",
+        "Burdista",
+        "Burdenis",
+        "Βούρδεπτο"
+      ],
+      "modern_location": "Svilengrad (Hisarya locality) / Momkovo micro-region, Svilengrad Municipality, Haskovo Province, Bulgaria",
+      "coordinates": {
+        "lat": 41.7763,
+        "lon": 26.1981
+      },
+      "alternate_site_coordinates": {
+        "lat": 41.83,
+        "lon": 26.215,
+        "source": "Momkovo southern archaeological zone (Madzharov 2009 / NAIM-BAS surveys)"
+      },
+      "coordinate_precision": "regional_archaeological_complex_pair",
+      "uncertainty_radius_km": 3.5,
+      "pleiades_id": "501381",
+      "coordinate_source": "Hisarya fortress hill in Svilengrad & Momkovo survey area / Pleiades 501381",
+      "site_type_itineraries": "mansio (later castellum)",
+      "site_type_117_ad": "Unfortified or lightly enclosed imperial mansio controlling the lower Hebrus corridor toward Uscudama",
+      "chronology_attested": "1st–4th c. AD Roman mansio; 4th–12th c. Late Antique and medieval fortress/bishopric",
+      "identification_status": "regionally_confirmed",
+      "confidence_level": "MEDIUM_HIGH",
+      "distance_from_prev_roman_miles": 18,
+      "distance_note": "18 Roman miles from Castra Rubra (7 mp Castra Rubra -> Rhamis + 11 mp Rhamis -> Burdista in Itin. Burd. 568.8-569.2; XX mp from Subzupara in Itin. Ant. 137.6)",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-07",
+        "SRC-16",
+        "SRC-18"
+      ]
+    }
+  ],
+  "supplementary_and_eastern_nodes": [
+    {
+      "node_id": "INT-01",
+      "position": "Between STOP-03 (Parembole) and STOP-04 (Carassura)",
+      "historical_name": "Cillae",
+      "name_in_117_ad": "Cillae",
+      "ancient_variants": [
+        "Cillae",
+        "Cillio",
+        "Cillis",
+        "Kellae"
+      ],
+      "modern_location": "Cherna Gora, Bratya Daskalovi Municipality, Stara Zagora Province, Bulgaria",
+      "coordinates": {
+        "lat": 42.226,
+        "lon": 25.228
+      },
+      "pleiades_id": "216767",
+      "coordinate_source": "Cherna Gora archaeological site / Pleiades 216767",
+      "site_type_itineraries": "mansio",
+      "status_117_ad": "Active mansio",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-05",
+        "SRC-07"
+      ]
+    },
+    {
+      "node_id": "INT-02",
+      "position": "Between STOP-04 (Carassura) and STOP-05 (Arzus)",
+      "historical_name": "Emporium Pizos / Opizo",
+      "name_in_117_ad": "Pre-emporium settlement / station Opizo (Emporium Pizos founded later in 202 AD)",
+      "ancient_variants": [
+        "Pizos",
+        "Opizo",
+        "Opizus",
+        "Ἐμπόριον Πίζος"
+      ],
+      "modern_location": "Dimitrievo, Chirpan Municipality, Stara Zagora Province, Bulgaria",
+      "coordinates": {
+        "lat": 42.167,
+        "lon": 25.417
+      },
+      "pleiades_id": "216935",
+      "coordinate_source": "Dimitrievo epigraphic findspot (IGBulg III/2 1690) / Pleiades 216935",
+      "site_type_itineraries": "emporium / mansio",
+      "status_117_ad": "Emporium not yet founded (established 202 AD under Septimius Severus); minor road locality only",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-05",
+        "SRC-07",
+        "SRC-18"
+      ]
+    },
+    {
+      "node_id": "INT-03",
+      "position": "Between STOP-07 (Castra Rubra) and STOP-08 (Burdipta)",
+      "historical_name": "Rhamae",
+      "name_in_117_ad": "Unattested toponym in 117 AD (attested as mutatio Rhamis in 333 AD)",
+      "ancient_variants": [
+        "Rhamae",
+        "Rhamis"
+      ],
+      "modern_location": "Lyubimets area, Haskovo Province, Bulgaria",
+      "coordinates": {
+        "lat": 41.8444,
+        "lon": 26.0811
+      },
+      "pleiades_id": null,
+      "coordinate_source": "Lyubimets modern settlement reference (7 mp SE of Castra Rubra, Itin. Burd. 568.8)",
+      "site_type_itineraries": "mutatio",
+      "status_117_ad": "Hypothetical minor relay post",
+      "confidence_level": "LOW_MEDIUM",
+      "source_ids": [
+        "SRC-02",
+        "SRC-07"
+      ]
+    },
+    {
+      "node_id": "EXT-09",
+      "position": "East of STOP-08 (Burdipta) toward Hadrianopolis",
+      "historical_name": "Uscudama / Hadrianopolis",
+      "name_in_117_ad": "Uscudama (at the threshold of refoundation as Hadrianopolis under Hadrian, r. 117–138 AD)",
+      "ancient_variants": [
+        "Uscudama",
+        "Orestias",
+        "Hadrianopolis",
+        "Hadrianoupolis",
+        "Ἁδριανούπολις"
+      ],
+      "modern_location": "Edirne, Turkey",
+      "coordinates": {
+        "lat": 41.6774,
+        "lon": 26.5517
+      },
+      "pleiades_id": "501428",
+      "coordinate_source": "Pleiades 501428 / Digital Atlas of the Roman Empire (DARE)",
+      "site_type_itineraries": "civitas",
+      "status_117_ad": "Major Thraco-Roman river-confluence settlement Uscudama, refounded as Hadrianopolis during Hadrian's reign (likely 124–127 AD)",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-18"
+      ]
+    },
+    {
+      "node_id": "EXT-10",
+      "position": "East of Uscudama / Hadrianopolis",
+      "historical_name": "Burtudizus",
+      "name_in_117_ad": "Burtudizus",
+      "ancient_variants": [
+        "Burtudizus",
+        "Burtudizo",
+        "Burdidizo"
+      ],
+      "modern_location": "Babaeski, Kırklareli Province, Turkey",
+      "coordinates": {
+        "lat": 41.4325,
+        "lon": 27.0931
+      },
+      "pleiades_id": "511194",
+      "coordinate_source": "Babaeski / Barrington Atlas Map 51 / ToposText",
+      "site_type_itineraries": "mansio",
+      "status_117_ad": "Active mansio and river crossing",
+      "confidence_level": "MEDIUM_HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-19"
+      ]
+    },
+    {
+      "node_id": "EXT-11",
+      "position": "East of Burtudizus",
+      "historical_name": "Bergule",
+      "name_in_117_ad": "Bergule (renamed Arcadiopolis after 395 AD)",
+      "ancient_variants": [
+        "Bergule",
+        "Bergoule",
+        "Virgoles",
+        "Arcadiopolis"
+      ],
+      "modern_location": "Lüleburgaz, Kırklareli Province, Turkey",
+      "coordinates": {
+        "lat": 41.402,
+        "lon": 27.3552
+      },
+      "pleiades_id": "511185",
+      "coordinate_source": "Pleiades 511185 / ToposText",
+      "site_type_itineraries": "civitas / mansio",
+      "status_117_ad": "Active Thraco-Roman town and mansio Bergule",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-18",
+        "SRC-19"
+      ]
+    },
+    {
+      "node_id": "EXT-12",
+      "position": "Southeast of Bergule",
+      "historical_name": "Drizipara",
+      "name_in_117_ad": "Drizipara (Drousipara)",
+      "ancient_variants": [
+        "Drizipara",
+        "Drizupara",
+        "Drousipara"
+      ],
+      "modern_location": "Büyükkarıştıran, Kırklareli Province, Turkey",
+      "coordinates": {
+        "lat": 41.305,
+        "lon": 27.52
+      },
+      "pleiades_id": "511241",
+      "coordinate_source": "Pleiades 511241 / ToposText / Büyükkarıştıran",
+      "site_type_itineraries": "mansio",
+      "status_117_ad": "Active Thraco-Roman settlement and mansio (attested by Ptolemy Geogr. III.11.7)",
+      "confidence_level": "MEDIUM_HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-18",
+        "SRC-19"
+      ]
+    },
+    {
+      "node_id": "EXT-13",
+      "position": "Southeast of Drizipara",
+      "historical_name": "Tzurulum / Izirallo",
+      "name_in_117_ad": "Syrallo / Tzurulum",
+      "ancient_variants": [
+        "Izirallo",
+        "Syrallo",
+        "Tunorullo",
+        "Tzurulum"
+      ],
+      "modern_location": "Çorlu, Tekirdağ Province, Turkey",
+      "coordinates": {
+        "lat": 41.1592,
+        "lon": 27.8
+      },
+      "pleiades_id": "511449",
+      "coordinate_source": "Pleiades 511449 / Çorlu historical citadel",
+      "site_type_itineraries": "mansio",
+      "status_117_ad": "Active road station on the watershed north of Perinthus",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-18"
+      ]
+    },
+    {
+      "node_id": "EXT-14",
+      "position": "Propontis coast junction",
+      "historical_name": "Perinthus",
+      "name_in_117_ad": "Perinthus (provincial capital of Thracia; renamed Heraclea c. 286 AD)",
+      "ancient_variants": [
+        "Perinthus",
+        "Πέρινθος",
+        "Heraclea"
+      ],
+      "modern_location": "Marmara Ereğlisi, Tekirdağ Province, Turkey",
+      "coordinates": {
+        "lat": 40.9708,
+        "lon": 27.9545
+      },
+      "pleiades_id": "511357",
+      "coordinate_source": "Pleiades 511357 / Digital Atlas of the Roman Empire (DARE)",
+      "site_type_itineraries": "civitas / caput provinciae",
+      "status_117_ad": "Seat of the Roman governor (legatus Augusti pro praetore) of Thracia and junction with the Via Egnatia coastal trunk",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-17",
+        "SRC-18"
+      ]
+    },
+    {
+      "node_id": "EXT-14B",
+      "position": "Propontis coast between Perinthus and Byzantium",
+      "historical_name": "Selymbria",
+      "name_in_117_ad": "Selymbria",
+      "ancient_variants": [
+        "Selymbria",
+        "Salambria",
+        "Σηλυμβρία"
+      ],
+      "modern_location": "Silivri, Istanbul Province, Turkey",
+      "coordinates": {
+        "lat": 41.0785,
+        "lon": 28.2477
+      },
+      "pleiades_id": "511414",
+      "coordinate_source": "Pleiades 511414 / ToposText / DARE",
+      "site_type_itineraries": "civitas / mansio",
+      "status_117_ad": "Active Greek-Roman coastal polis and road station",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-02",
+        "SRC-03",
+        "SRC-18",
+        "SRC-19"
+      ]
+    },
+    {
+      "node_id": "EXT-14C",
+      "position": "Western lagoon approach to Byzantium",
+      "historical_name": "Rhegium",
+      "name_in_117_ad": "Rhegium",
+      "ancient_variants": [
+        "Rhegium",
+        "Regio",
+        "Ῥήγιον"
+      ],
+      "modern_location": "Küçükçekmece, Istanbul Province, Turkey",
+      "coordinates": {
+        "lat": 40.991,
+        "lon": 28.771
+      },
+      "pleiades_id": "521107",
+      "coordinate_source": "Küçükçekmece lagoon archaeological zone / Barrington Atlas Map 52",
+      "site_type_itineraries": "mansio",
+      "status_117_ad": "Lagoon bridge crossing and last station 12 Roman miles west of Byzantium",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-02",
+        "SRC-18",
+        "SRC-19"
+      ]
+    },
+    {
+      "node_id": "EXT-15",
+      "position": "Historical Eastern Terminus on the Bosporus",
+      "historical_name": "Byzantium / Constantinopolis",
+      "name_in_117_ad": "Byzantium (Βυζάντιον)",
+      "ancient_variants": [
+        "Byzantium",
+        "Byzantio",
+        "Βυζάντιον",
+        "Constantinopolis (from 324/330 AD)"
+      ],
+      "modern_location": "Istanbul (Historical Peninsula / Sultanahmet – Sarayburnu), Turkey",
+      "coordinates": {
+        "lat": 41.0123,
+        "lon": 28.9759
+      },
+      "pleiades_id": "520985",
+      "coordinate_source": "Pleiades 520985 / Digital Atlas of the Roman Empire (DARE)",
+      "site_type_itineraries": "civitas / terminus",
+      "status_117_ad": "Classical Greco-Roman polis Byzantium at the Bosporus crossing to Chalcedon/Bithynia (prior to Septimius Severus's siege of 196 AD and Constantine's refoundation of 324–330 AD)",
+      "confidence_level": "HIGH",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-18"
+      ]
+    }
+  ],
+  "route_segments": [
+    {
+      "segment_id": "SEG-01",
+      "from_id": "STOP-01",
+      "to_id": "STOP-01-EAST-NECROPOLIS",
+      "label": "Philippopolis Eastern Gate and suburban exit",
+      "classification": "confirmed",
+      "evidence": "Excavated Roman street/road pavements, Eastern Gate, and linear tumular/flat necropoleis of 1st–2nd c. AD",
+      "source_ids": [
+        "SRC-08",
+        "SRC-09"
+      ]
+    },
+    {
+      "segment_id": "SEG-02",
+      "from_id": "STOP-01",
+      "to_id": "STOP-03",
+      "via": [
+        "STOP-02"
+      ],
+      "label": "Philippopolis – Sernota (Manole) – Parembole (Belozem) alluvial plain",
+      "classification": "hypothetical_or_inferred",
+      "roman_miles": 18,
+      "river_crossings": [
+        "Hebrus (at Philippopolis)",
+        "Syrmus / Stryama (near Manole)"
+      ],
+      "evidence": "Alluvial shifting of Maritsa and Stryama obliterated continuous pavement; reconstructed via tumular alignments, 10 + 8 mp distances, and the 61 AD Neronian inscription at Belozem",
+      "source_ids": [
+        "SRC-02",
+        "SRC-04",
+        "SRC-07"
+      ]
+    },
+    {
+      "segment_id": "SEG-03",
+      "from_id": "STOP-03",
+      "to_id": "INT-01",
+      "label": "Parembole (Belozem) – Cillae (Cherna Gora)",
+      "classification": "confirmed_nodes_inferred_line",
+      "roman_miles": 12,
+      "evidence": "Epigraphically anchored endpoints (Belozem 61 AD; Cillae IGBulg III/2 1517); agricultural disturbance along intervening plain",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-05",
+        "SRC-07"
+      ]
+    },
+    {
+      "segment_id": "SEG-04",
+      "from_id": "INT-01",
+      "to_id": "STOP-04",
+      "label": "Cillae (Cherna Gora) – Carassura (Rupkite)",
+      "classification": "confirmed",
+      "roman_miles": 9,
+      "river_crossings": [
+        "Stara Reka (at the foot of Kaleto, Rupkite)"
+      ],
+      "evidence": "Excavated roadbed at Carassura and systematic Bulgarian-German archaeological survey (1981–2005)",
+      "source_ids": [
+        "SRC-14",
+        "SRC-15"
+      ]
+    },
+    {
+      "segment_id": "SEG-05",
+      "from_id": "STOP-04",
+      "to_id": "STOP-05",
+      "via": [
+        "INT-02"
+      ],
+      "label": "Carassura (Rupkite) – Opizo/Pizos (Dimitrievo) – Arzus (Kalugerovo)",
+      "classification": "hypothetical_or_inferred",
+      "roman_miles": 29,
+      "evidence": "Corridor anchored north of the Maritsa by the Pizos Edict (202 AD) at Dimitrievo and Roman bridge piers at Kalugerovo; rejects erroneous southern detour through Dimitrovgrad/Kasnakovo",
+      "source_ids": [
+        "SRC-01",
+        "SRC-05",
+        "SRC-07",
+        "SRC-14"
+      ]
+    },
+    {
+      "segment_id": "SEG-06",
+      "from_id": "STOP-05",
+      "to_id": "STOP-05",
+      "label": "Arzus River (Sazliyka) crossing at Kalugerovo",
+      "classification": "confirmed",
+      "river_crossings": [
+        "Arzus / Sazliyka (attested Roman masonry bridge piers)"
+      ],
+      "evidence": "Documented Roman bridge piers and mansio remains at Kalugerovo",
+      "source_ids": [
+        "SRC-07",
+        "SRC-12"
+      ]
+    },
+    {
+      "segment_id": "SEG-07",
+      "from_id": "STOP-05",
+      "to_id": "STOP-07",
+      "via": [
+        "STOP-06"
+      ],
+      "label": "Arzus (Kalugerovo) – Palae (unconfirmed) – Castra Rubra approach",
+      "classification": "hypothetical_or_inferred",
+      "roman_miles": 18,
+      "evidence": "Mutatio Palae remains unconfirmed on the ground; corridor across SW Sakar foothills inferred from VII + XI mp distances",
+      "source_ids": [
+        "SRC-02",
+        "SRC-07"
+      ]
+    },
+    {
+      "segment_id": "SEG-08",
+      "from_id": "STOP-07",
+      "to_id": "STOP-07",
+      "label": "Castra Rubra (Izvorovo) Sakar pass roadbed",
+      "classification": "confirmed",
+      "evidence": "In situ preserved ~6 m stone-paved Roman roadbed with curbstones near Izvorovo / Kolarovo and excavated Kaleto site",
+      "source_ids": [
+        "SRC-07",
+        "SRC-16"
+      ]
+    },
+    {
+      "segment_id": "SEG-09",
+      "from_id": "STOP-07",
+      "to_id": "STOP-08",
+      "via": [
+        "INT-03"
+      ],
+      "label": "Castra Rubra (Izvorovo) – Rhamae (Lyubimets) – Burdipta (Momkovo/Svilengrad)",
+      "classification": "hypothetical_or_inferred",
+      "roman_miles": 18,
+      "evidence": "Left-bank Maritsa terrace heavily modified by modern E80 / Maritsa motorway; anchored by rescue archaeology and itinerary mileage (7 + 11 mp)",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-07",
+        "SRC-16"
+      ]
+    },
+    {
+      "segment_id": "SEG-10",
+      "from_id": "STOP-08",
+      "to_id": "EXT-09",
+      "label": "Burdipta (Svilengrad) – Daphabae – Uscudama/Hadrianopolis (Edirne)",
+      "classification": "hypothetical_or_inferred",
+      "roman_miles": 24,
+      "river_crossings": [
+        "Tonzus / Tundzha and Hebrus / Maritsa approaches at Edirne"
+      ],
+      "evidence": "Cross-border Maritsa valley corridor reconstructed via Itin. Ant. (XXIV mp) and Itin. Burd. (Daphabae XI mp)",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-18"
+      ]
+    },
+    {
+      "segment_id": "SEG-11",
+      "from_id": "EXT-09",
+      "to_id": "EXT-14",
+      "via": [
+        "EXT-10",
+        "EXT-11",
+        "EXT-12",
+        "EXT-13"
+      ],
+      "label": "Uscudama/Hadrianopolis – Burtudizus – Bergule – Drizipara – Tzurulum – Perinthus",
+      "classification": "confirmed_nodes_inferred_line",
+      "roman_miles": 86,
+      "river_crossings": [
+        "Ergene (Agrianes) left-bank tributaries at Babaeski, Lüleburgaz, and Büyükkarıştıran"
+      ],
+      "evidence": "Major towns/mansiones securely fixed (Edirne, Babaeski, Lüleburgaz, Büyükkarıştıran, Çorlu, Marmara Ereğlisi); inter-station alignments partly overlain by modern D100 and Ottoman Orta Kol",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-17",
+        "SRC-18"
+      ]
+    },
+    {
+      "segment_id": "SEG-12",
+      "from_id": "EXT-14",
+      "to_id": "EXT-15",
+      "via": [
+        "EXT-14B",
+        "EXT-14C"
+      ],
+      "label": "Perinthus – Selymbria – Rhegium – Byzantium Propontis coastal trunk",
+      "classification": "confirmed",
+      "roman_miles": 62,
+      "river_crossings": [
+        "Atyra (Büyükçekmece) lagoon",
+        "Rhegium (Küçükçekmece) lagoon bridge"
+      ],
+      "evidence": "Shared eastern trunk of Via Diagonalis and Via Egnatia; preserved Roman road sections west of Silivri, milestones, and lagoon bridge foundations at Küçükçekmece",
+      "source_ids": [
+        "SRC-01",
+        "SRC-02",
+        "SRC-03",
+        "SRC-17",
+        "SRC-18"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "rivers": [
+    {
+      "id": "RIV-HEBRUS",
+      "polylineKey": "RIV-HEBRUS",
+      "labelNodeKey": "STOP-01",
+      "ancientNameBg": "р. Хеброс (Марица)",
+      "widthPx": 3.5,
+      "isPrimary": true
+    },
+    {
+      "id": "RIV-SYRMUS",
+      "polylineKey": "RIV-SYRMUS",
+      "labelNodeKey": "STOP-02",
+      "ancientNameBg": "р. Сирмус (Стряма)",
+      "widthPx": 2.2,
+      "isPrimary": false
+    },
+    {
+      "id": "RIV-ARZUS",
+      "polylineKey": "RIV-ARZUS",
+      "labelNodeKey": "STOP-05",
+      "ancientNameBg": "р. Арзус (Сазлийка)",
+      "widthPx": 2.4,
+      "isPrimary": true
+    },
+    {
+      "id": "RIV-TONZUS",
+      "polylineKey": "RIV-TONZUS",
+      "labelNodeKey": "EXT-09",
+      "ancientNameBg": "р. Тонзус (Тунджа)",
+      "widthPx": 2.6,
+      "isPrimary": false
+    },
+    {
+      "id": "RIV-ARTIS",
+      "polylineKey": "RIV-ARTIS",
+      "labelNodeKey": "EXT-09",
+      "ancientNameBg": "р. Артескос (Арда)",
+      "widthPx": 2.4,
+      "isPrimary": false
+    },
+    {
+      "id": "RIV-AGRIANES",
+      "polylineKey": "RIV-AGRIANES",
+      "labelNodeKey": "EXT-10",
+      "ancientNameBg": "р. Агрианес (Ергене)",
+      "widthPx": 2.6,
+      "isPrimary": true
+    }
+  ],
+  "regions": [
+    {
+      "id": "REG-UPPER-THRACE",
+      "coordinateKey": "REG-UPPER-THRACE",
+      "titleBg": "ГОРНОТРАКИЙСКА НИЗИНА",
+      "subtitleBg": "Долината на Хеброс",
+      "kind": "plain"
+    },
+    {
+      "id": "REG-RHODOPE",
+      "coordinateKey": "REG-RHODOPE",
+      "titleBg": "РОДОПИ · RHODOPE MONS",
+      "subtitleBg": "Южна планинска рамка",
+      "kind": "mountain"
+    },
+    {
+      "id": "REG-HAEMUS",
+      "coordinateKey": "REG-HAEMUS",
+      "titleBg": "ХЕМУС · HAEMUS MONS",
+      "subtitleBg": "Северна граница с Долна Мизия",
+      "kind": "mountain"
+    },
+    {
+      "id": "REG-SAKAR",
+      "coordinateKey": "REG-SAKAR",
+      "titleBg": "САКАР ПЛАНИНА",
+      "subtitleBg": "Превалът при Кастра Рубра",
+      "kind": "mountain"
+    },
+    {
+      "id": "REG-EAST-THRACE",
+      "coordinateKey": "REG-EAST-THRACE",
+      "titleBg": "ИЗТОЧНА ТРАКИЯ",
+      "subtitleBg": "Коридор Адрианопол – Перинт",
+      "kind": "plain"
+    },
+    {
+      "id": "REG-PROPONTIS",
+      "coordinateKey": "REG-PROPONTIS",
+      "titleBg": "ПРОПОНТИДА (МРАМОРНО МОРЕ)",
+      "subtitleBg": "Крайбрежен път към Византион",
+      "kind": "sea"
+    }
+  ]
+}

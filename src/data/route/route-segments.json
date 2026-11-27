@@ -1,0 +1,101 @@
+[
+  {
+    "id": "SEG-02",
+    "titleBg": "Филипопол – Сернота – Паремболе (северна надзаливна тераса на Хеброс)",
+    "nodeKeys": ["STOP-01", "STOP-02", "STOP-03"],
+    "polylineKey": "ROUTE-SEG-02",
+    "classification": "hypothetical_or_inferred",
+    "romanMiles": 18,
+    "riverCrossingsBg": ["р. Хеброс (Марица) при Филипопол", "р. Сирмус (Стряма) при с. Маноле"],
+    "evidenceBg": "Следва сухата надзаливна тераса северно от разливите на Марица през могилния коридор Рогош–Маноле до нероновия преториум при Белозем.",
+    "sourceIds": ["SRC-02", "SRC-04", "SRC-07"]
+  },
+  {
+    "id": "SEG-03",
+    "titleBg": "Паремболе (Белозем) – Циле (Черна гора)",
+    "nodeKeys": ["STOP-03", "INT-01"],
+    "polylineKey": "ROUTE-SEG-03",
+    "classification": "confirmed_nodes_inferred_line",
+    "romanMiles": 12,
+    "riverCrossingsBg": ["р. Омуровска"],
+    "evidenceBg": "Плавно се изкачва североизточно извън заблатените разливи при Оризово към епиграфски потвърдената mansio Cillae при Черна гора.",
+    "sourceIds": ["SRC-01", "SRC-02", "SRC-05", "SRC-07"]
+  },
+  {
+    "id": "SEG-04",
+    "titleBg": "Циле (Черна гора) – Карасура (Рупките)",
+    "nodeKeys": ["INT-01", "STOP-04"],
+    "polylineKey": "ROUTE-SEG-04",
+    "classification": "confirmed",
+    "romanMiles": 9,
+    "riverCrossingsBg": ["Стара река под хълма Калето при с. Рупките"],
+    "evidenceBg": "Следва южната подножна дъга на Чирпанските възвишения и навлиза в археологически разкопаното платно под хълма Калето (Карасура).",
+    "sourceIds": ["SRC-14", "SRC-15"]
+  },
+  {
+    "id": "SEG-05",
+    "titleBg": "Карасура – Опизо/Пизос (Димитриево) – Арзус (Калугерово)",
+    "nodeKeys": ["STOP-04", "INT-02", "STOP-05"],
+    "polylineKey": "ROUTE-SEG-05",
+    "classification": "confirmed_nodes_inferred_line",
+    "romanMiles": 29,
+    "riverCrossingsBg": ["р. Арзус (Сазлийка) — засвидетелствани каменни устои на римски мост при с. Калугерово"],
+    "evidenceBg": "Върви по билното стъпало през Димитриево северно от Марица и се спуска плавно към римския мост над р. Сазлийка при с. Калугерово.",
+    "sourceIds": ["SRC-01", "SRC-05", "SRC-07", "SRC-12"]
+  },
+  {
+    "id": "SEG-07",
+    "titleBg": "Арзус (Калугерово) – Пале (хипотетична област) – Кастра Рубра (Изворово)",
+    "nodeKeys": ["STOP-05", "STOP-06", "STOP-07"],
+    "polylineKey": "ROUTE-SEG-07",
+    "classification": "hypothetical_or_inferred",
+    "romanMiles": 18,
+    "riverCrossingsBg": [],
+    "evidenceBg": "Заобикаля Харманлийския пролом от североизток през хипотетичната област на Palae (Тянево–Овчарово) и се изкачва по сакарската седловина до запазената настилка при Изворово.",
+    "sourceIds": ["SRC-02", "SRC-07", "SRC-16"]
+  },
+  {
+    "id": "SEG-09",
+    "titleBg": "Кастра Рубра (Изворово) – Раме (Любимец) – Бурдипта (Свиленград/Момково)",
+    "nodeKeys": ["STOP-07", "INT-03", "STOP-08"],
+    "polylineKey": "ROUTE-SEG-09",
+    "classification": "confirmed_nodes_inferred_line",
+    "romanMiles": 18,
+    "riverCrossingsBg": ["Леви притоци на Марица по южната периферия на Сакар"],
+    "evidenceBg": "Спуска се от запазеното каменно платно в Сакар към речната тераса при Любимец и продължава по левия бряг на Марица до Момково/Свиленград.",
+    "sourceIds": ["SRC-01", "SRC-02", "SRC-07", "SRC-16"]
+  },
+  {
+    "id": "SEG-10",
+    "titleBg": "Бурдипта – Дафабе – Ускудама / Адрианопол (Одрин)",
+    "nodeKeys": ["STOP-08", "EXT-09"],
+    "polylineKey": "ROUTE-SEG-10",
+    "classification": "hypothetical_or_inferred",
+    "romanMiles": 24,
+    "riverCrossingsBg": ["р. Тонзус (Тунджа) и подходите при р. Хеброс (Марица) до Ускудама"],
+    "evidenceBg": "Следва естествената извивка на долината на Марица през Капъкуле (mutatio Daphabae) до стратегическото триречие при Ускудама / Адрианопол.",
+    "sourceIds": ["SRC-01", "SRC-02", "SRC-18"]
+  },
+  {
+    "id": "SEG-11",
+    "titleBg": "Адрианопол – Буртудизус – Бергуле – Дризипара – Цурулум – Перинт",
+    "nodeKeys": ["EXT-09", "EXT-10", "EXT-11", "EXT-12", "EXT-13", "EXT-14"],
+    "polylineKey": "ROUTE-SEG-11",
+    "classification": "confirmed_nodes_inferred_line",
+    "romanMiles": 86,
+    "riverCrossingsBg": ["Леви притоци на р. Агрианес (Ергене) при Бабаески, Люлебургаз и Каръщъран"],
+    "evidenceBg": "Пресича вълнистите вододели на Източна Тракия през Хавса, Бабаески, Люлебургаз, Каръщъран и Чорлу и се спуска към пристанищната столица Перинт на Пропонтида.",
+    "sourceIds": ["SRC-01", "SRC-02", "SRC-03", "SRC-17", "SRC-18"]
+  },
+  {
+    "id": "SEG-12",
+    "titleBg": "Перинт – Селимбрия – Регион – Константинопол / Византион (крайбрежен ствол)",
+    "nodeKeys": ["EXT-14", "EXT-14B", "EXT-14C", "EXT-15"],
+    "polylineKey": "ROUTE-SEG-12",
+    "classification": "confirmed",
+    "romanMiles": 62,
+    "riverCrossingsBg": ["Лагунен преход при Атира (Бююкчекмедже)", "Римски лагунен мост при Регион (Кючукчекмедже)"],
+    "evidenceBg": "Следва крайбрежната дъга на Мраморно море през Силиври и лагунните мостове при Бююкчекмедже и Кючукчекмедже до Златния рог и Византион / Константинопол.",
+    "sourceIds": ["SRC-01", "SRC-02", "SRC-03", "SRC-17", "SRC-18"]
+  }
+]

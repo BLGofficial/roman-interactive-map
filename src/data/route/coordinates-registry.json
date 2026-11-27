@@ -1,0 +1,379 @@
+{
+  "crs": "EPSG:4326",
+  "datum": "WGS84",
+  "targetYearAd": 117,
+  "nodes": {
+    "STOP-01": {
+      "lat": 42.1474,
+      "lon": 24.7491,
+      "elevationMeters": 168,
+      "uncertaintyRadiusKm": 0.5,
+      "pleiadesId": "216927",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 216927 / DARE / НАИМ-БАН (Форум и Трихълмие, Пловдив)"
+    },
+    "STOP-02": {
+      "lat": 42.1833,
+      "lon": 24.9333,
+      "elevationMeters": 152,
+      "uncertaintyRadiusKm": 3.5,
+      "pleiadesId": null,
+      "precision": "modern_corridor_reference",
+      "sourceBg": "Хипотетична област с. Маноле / р. Стряма (10 римски мили източно от Филипопол, Маджаров 2009)"
+    },
+    "STOP-03": {
+      "lat": 42.2036,
+      "lon": 25.0394,
+      "elevationMeters": 146,
+      "uncertaintyRadiusKm": 2.5,
+      "pleiadesId": null,
+      "precision": "epigraphic_findspot_corridor",
+      "sourceBg": "Епиграфски район с. Белозем (строителен надпис на Нерон от 61 г. сл. Хр., Маджаров 2009)"
+    },
+    "INT-01": {
+      "lat": 42.226,
+      "lon": 25.228,
+      "elevationMeters": 165,
+      "uncertaintyRadiusKm": 1.0,
+      "pleiadesId": "216767",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 216767 / с. Черна гора (mansio Cillae, IGBulg III/2 1517)"
+    },
+    "STOP-04": {
+      "lat": 42.1998,
+      "lon": 25.3244,
+      "elevationMeters": 195,
+      "uncertaintyRadiusKm": 0.2,
+      "pleiadesId": "216750",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 216750 / Археологически комплекс Карасура (м. Калето, с. Рупките, Wendel 2005)"
+    },
+    "INT-02": {
+      "lat": 42.167,
+      "lon": 25.417,
+      "elevationMeters": 162,
+      "uncertaintyRadiusKm": 1.2,
+      "pleiadesId": "216935",
+      "precision": "epigraphic_findspot_corridor",
+      "sourceBg": "Pleiades 216935 / с. Димитриево (Emporium Pizos / Opizo, IGBulg III/2 1690)"
+    },
+    "STOP-05": {
+      "lat": 42.0775,
+      "lon": 25.8702,
+      "elevationMeters": 92,
+      "uncertaintyRadiusKm": 1.0,
+      "pleiadesId": "216714",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 216714 / DARE / с. Калугерово (римски мостови устои на р. Сазлийка)"
+    },
+    "STOP-06": {
+      "lat": 42.005,
+      "lon": 25.965,
+      "elevationMeters": 178,
+      "uncertaintyRadiusKm": 4.5,
+      "pleiadesId": null,
+      "precision": "hypothetical_corridor_centroid",
+      "sourceBg": "Хипотетична географска област с. Тянево – с. Овчарово (VII мили от Arzus, Itin. Burd. 568.6)"
+    },
+    "STOP-07": {
+      "lat": 41.9322,
+      "lon": 26.0922,
+      "elevationMeters": 265,
+      "uncertaintyRadiusKm": 0.5,
+      "pleiadesId": "501384",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 501384 / м. Калето при с. Изворово (запазена настилка и разкопки, АОР НАИМ-БАН)"
+    },
+    "INT-03": {
+      "lat": 41.8444,
+      "lon": 26.0811,
+      "elevationMeters": 78,
+      "uncertaintyRadiusKm": 3.0,
+      "pleiadesId": null,
+      "precision": "modern_corridor_reference",
+      "sourceBg": "Хипотетична област гр. Любимец (mutatio Rhamis, VII мили от Castra Rubra)"
+    },
+    "STOP-08": {
+      "lat": 41.7763,
+      "lon": 26.1981,
+      "elevationMeters": 68,
+      "uncertaintyRadiusKm": 3.5,
+      "pleiadesId": "501381",
+      "precision": "regional_complex",
+      "sourceBg": "Pleiades 501381 / м. Хисаря (Свиленград) – с. Момково"
+    },
+    "EXT-09": {
+      "lat": 41.6774,
+      "lon": 26.5517,
+      "elevationMeters": 48,
+      "uncertaintyRadiusKm": 0.8,
+      "pleiadesId": "501428",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 501428 / DARE (Uscudama / Hadrianopolis, дн. Одрин)"
+    },
+    "EXT-10": {
+      "lat": 41.4325,
+      "lon": 27.0931,
+      "elevationMeters": 58,
+      "uncertaintyRadiusKm": 1.5,
+      "pleiadesId": "511194",
+      "precision": "regional_complex",
+      "sourceBg": "Pleiades 511194 / ToposText (Burtudizus, дн. Бабаески)"
+    },
+    "EXT-11": {
+      "lat": 41.402,
+      "lon": 27.3552,
+      "elevationMeters": 64,
+      "uncertaintyRadiusKm": 1.0,
+      "pleiadesId": "511185",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 511185 / ToposText (Bergule, дн. Люлебургаз)"
+    },
+    "EXT-12": {
+      "lat": 41.305,
+      "lon": 27.52,
+      "elevationMeters": 72,
+      "uncertaintyRadiusKm": 1.5,
+      "pleiadesId": "511241",
+      "precision": "regional_complex",
+      "sourceBg": "Pleiades 511241 / ToposText (Drizipara, дн. Бююккаръщъран)"
+    },
+    "EXT-13": {
+      "lat": 41.1592,
+      "lon": 27.8,
+      "elevationMeters": 148,
+      "uncertaintyRadiusKm": 1.2,
+      "pleiadesId": "511449",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 511449 (Tzurulum / Syrallo, дн. Чорлу)"
+    },
+    "EXT-14": {
+      "lat": 40.9708,
+      "lon": 27.9545,
+      "elevationMeters": 22,
+      "uncertaintyRadiusKm": 0.5,
+      "pleiadesId": "511357",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 511357 / DARE (Perinthus / Heraclea, дн. Мармара Ерейлиси)"
+    },
+    "EXT-14B": {
+      "lat": 41.0785,
+      "lon": 28.2477,
+      "elevationMeters": 26,
+      "uncertaintyRadiusKm": 0.8,
+      "pleiadesId": "511414",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 511414 / DARE (Selymbria, дн. Силиври)"
+    },
+    "EXT-14C": {
+      "lat": 40.991,
+      "lon": 28.771,
+      "elevationMeters": 12,
+      "uncertaintyRadiusKm": 0.8,
+      "pleiadesId": "521107",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 521107 (Rhegium, дн. Кючукчекмедже)"
+    },
+    "EXT-15": {
+      "lat": 41.0123,
+      "lon": 28.9759,
+      "elevationMeters": 38,
+      "uncertaintyRadiusKm": 0.5,
+      "pleiadesId": "520985",
+      "precision": "exact_excavated_site",
+      "sourceBg": "Pleiades 520985 / DARE (Byzantium / Constantinopolis, дн. Истанбул)"
+    },
+    "REG-UPPER-THRACE": {
+      "lat": 42.13,
+      "lon": 25.18,
+      "elevationMeters": 160,
+      "uncertaintyRadiusKm": 0,
+      "pleiadesId": null,
+      "precision": "regional_complex",
+      "sourceBg": "Физикогеографски център на Горнотракийската низина"
+    },
+    "REG-RHODOPE": {
+      "lat": 41.78,
+      "lon": 24.88,
+      "elevationMeters": 1450,
+      "uncertaintyRadiusKm": 0,
+      "pleiadesId": "501586",
+      "precision": "regional_complex",
+      "sourceBg": "Pleiades 501586 (Rhodope Mons / Родопи)"
+    },
+    "REG-HAEMUS": {
+      "lat": 42.72,
+      "lon": 25.15,
+      "elevationMeters": 1650,
+      "uncertaintyRadiusKm": 0,
+      "pleiadesId": "216818",
+      "precision": "regional_complex",
+      "sourceBg": "Pleiades 216818 (Haemus Mons / Стара планина)"
+    },
+    "REG-SAKAR": {
+      "lat": 41.98,
+      "lon": 26.27,
+      "elevationMeters": 690,
+      "uncertaintyRadiusKm": 0,
+      "pleiadesId": null,
+      "precision": "regional_complex",
+      "sourceBg": "Сакар планина (превалният масив на Castra Rubra)"
+    },
+    "REG-EAST-THRACE": {
+      "lat": 41.38,
+      "lon": 27.22,
+      "elevationMeters": 120,
+      "uncertaintyRadiusKm": 0,
+      "pleiadesId": null,
+      "precision": "regional_complex",
+      "sourceBg": "Източна Тракия (басейн на р. Агрианес / Ергене)"
+    },
+    "REG-PROPONTIS": {
+      "lat": 40.82,
+      "lon": 28.25,
+      "elevationMeters": 0,
+      "uncertaintyRadiusKm": 0,
+      "pleiadesId": "511379",
+      "precision": "regional_complex",
+      "sourceBg": "Pleiades 511379 (Propontis / Мраморно море)"
+    }
+  },
+  "polylines": {
+    "RIV-HEBRUS": [
+      [24.33, 42.19],
+      [24.56, 42.16],
+      [24.75, 42.154],
+      [24.94, 42.145],
+      [25.18, 42.118],
+      [25.55, 42.062],
+      [25.865, 42.032],
+      [25.95, 41.915],
+      [26.12, 41.815],
+      [26.198, 41.768],
+      [26.38, 41.715],
+      [26.555, 41.671],
+      [26.52, 41.42],
+      [26.32, 41.12],
+      [26.06, 40.85]
+    ],
+    "RIV-SYRMUS": [
+      [24.8, 42.58],
+      [24.85, 42.42],
+      [24.89, 42.28],
+      [24.935, 42.18],
+      [24.94, 42.145]
+    ],
+    "RIV-ARZUS": [
+      [25.63, 42.41],
+      [25.75, 42.29],
+      [25.83, 42.18],
+      [25.8702, 42.0775],
+      [25.865, 42.032]
+    ],
+    "RIV-TONZUS": [
+      [26.5, 42.46],
+      [26.56, 42.18],
+      [26.54, 41.92],
+      [26.555, 41.671]
+    ],
+    "RIV-ARTIS": [
+      [25.66, 41.63],
+      [25.98, 41.64],
+      [26.28, 41.655],
+      [26.555, 41.671]
+    ],
+    "RIV-AGRIANES": [
+      [27.72, 41.54],
+      [27.51, 41.31],
+      [27.35, 41.39],
+      [27.09, 41.42],
+      [26.78, 41.31],
+      [26.52, 41.22],
+      [26.32, 41.12]
+    ],
+    "ROUTE-SEG-02": [
+      [24.7491, 42.1474],
+      [24.782, 42.1525],
+      [24.828, 42.1605],
+      [24.882, 42.1725],
+      [24.9333, 42.1833],
+      [24.986, 42.1945],
+      [25.0394, 42.2036]
+    ],
+    "ROUTE-SEG-03": [
+      [25.0394, 42.2036],
+      [25.095, 42.2145],
+      [25.158, 42.223],
+      [25.228, 42.226]
+    ],
+    "ROUTE-SEG-04": [
+      [25.228, 42.226],
+      [25.264, 42.2195],
+      [25.296, 42.209],
+      [25.3244, 42.1998]
+    ],
+    "ROUTE-SEG-05": [
+      [25.3244, 42.1998],
+      [25.368, 42.184],
+      [25.417, 42.167],
+      [25.498, 42.153],
+      [25.595, 42.139],
+      [25.695, 42.119],
+      [25.788, 42.099],
+      [25.8702, 42.0775]
+    ],
+    "ROUTE-SEG-07": [
+      [25.8702, 42.0775],
+      [25.906, 42.053],
+      [25.936, 42.029],
+      [25.965, 42.005],
+      [26.012, 41.977],
+      [26.054, 41.954],
+      [26.0922, 41.9322]
+    ],
+    "ROUTE-SEG-09": [
+      [26.0922, 41.9322],
+      [26.086, 41.89],
+      [26.0811, 41.8444],
+      [26.122, 41.822],
+      [26.164, 41.799],
+      [26.1981, 41.7763]
+    ],
+    "ROUTE-SEG-10": [
+      [26.1981, 41.7763],
+      [26.264, 41.748],
+      [26.338, 41.724],
+      [26.422, 41.705],
+      [26.492, 41.689],
+      [26.5517, 41.6774]
+    ],
+    "ROUTE-SEG-11": [
+      [26.5517, 41.6774],
+      [26.685, 41.615],
+      [26.821, 41.549],
+      [26.96, 41.488],
+      [27.0931, 41.4325],
+      [27.225, 41.418],
+      [27.3552, 41.402],
+      [27.442, 41.355],
+      [27.52, 41.305],
+      [27.658, 41.232],
+      [27.8, 41.1592],
+      [27.878, 41.064],
+      [27.9545, 40.9708]
+    ],
+    "ROUTE-SEG-12": [
+      [27.9545, 40.9708],
+      [28.045, 41.018],
+      [28.145, 41.056],
+      [28.2477, 41.0785],
+      [28.395, 41.058],
+      [28.555, 41.022],
+      [28.665, 41.002],
+      [28.771, 40.991],
+      [28.875, 40.986],
+      [28.932, 41.002],
+      [28.9759, 41.0123]
+    ]
+  }
+}
